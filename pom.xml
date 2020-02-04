@@ -11,7 +11,7 @@
 	<name>springboot</name>
 	<description>Project for Spring Boot Jenkins</description>
 
-       	 <parent>
+       	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.4.RELEASE</version>
