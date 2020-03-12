@@ -14,8 +14,8 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Testing'
-                sh 'mvn test'
+              //  echo 'Testing'
+               // sh 'mvn test'
             }
         }
         //stage('JaCoCo') {
